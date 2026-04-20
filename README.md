@@ -1,3 +1,7 @@
+# This repository is a mirror of:
+https://github.com/NawfalMotii79/PLFM_RADAR
+All rights and credits belong to the original author.
+
 # AERIS-10: Open Source Pulse Linear Frequency Modulated Phased Array Radar
 
 [![Hardware: CERN-OHL-P](https://img.shields.io/badge/Hardware-CERN--OHL--P-blue.svg)](https://ohwr.org/cern_ohl_p_v2.txt)
